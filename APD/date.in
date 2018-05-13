@@ -1,0 +1,17 @@
+3
+4
+0 1 c &
+13
+0 0 z0 push
+0 0 0 push
+0 0 1 push
+0 1 z0 push
+0 1 0 push
+0 1 1 push
+0 c z0 continue
+0 c 0 continue
+0 c 1 continue
+1 0 0 pop
+1 1 1 pop
+1 & z0 end
+2 & z0 end
